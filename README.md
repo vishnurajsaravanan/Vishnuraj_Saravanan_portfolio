@@ -1,3 +1,5 @@
+@import "{{ site.theme }}";
+
 # Vishnuraj Saravanan 
 AI & DS Student at SNS College of Engineering, Coimbatore
  
