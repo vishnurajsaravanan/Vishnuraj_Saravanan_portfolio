@@ -1,6 +1,6 @@
-# Portfolio of Vishnuraj Saravanan 
-Know more about me!
-
+# Vishnuraj Saravanan 
+AI & DS Student at SNS College of Engineering, Coimbatore
+ 
 ## [Project 1 - FakeLink-Detection](https://github.com/vishnurajsaravanan/FakeLink-Detection)
 Detecting fake, malicious web links using machine learning and phishtank database.
 
