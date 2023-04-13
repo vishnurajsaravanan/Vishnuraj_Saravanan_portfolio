@@ -1,4 +1,4 @@
-# Vishnuraj Saravanan 
+# Vishnuraj Saravanan ~ AI & DS Student at SNS College of Engineering
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning projects<br>🌱 I’m currently learning Robotic Process Automation<br>💬 Ask me about ML & NLP<br>⚡ Fun fact I'm a left-handed smart guy
 
@@ -21,8 +21,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-AI & DS Student at SNS College of Engineering, Coimbatore
- 
 ## [Project 1 - FakeLink-Detection](https://github.com/vishnurajsaravanan/FakeLink-Detection)
 Detecting fake, malicious web links using machine learning and phishtank database.
 
